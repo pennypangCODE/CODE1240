@@ -11,4 +11,25 @@
   opacity: 0.5;
 }
 
-/*Interactive */
+#living:hover{
+  opacity: 0.1;
+  cursor: pointer;
+}
+
+
+#livingroomImage{
+  cursor: pointer;
+  height: 90%;
+  width: 90%;
+}
+
+#office:hover{
+  opacity: 0.1;
+  cursor: pointer;
+}
+
+#officeImage{
+  cursor: pointer;
+  height: 90%;
+  width: 90%;
+}
