@@ -1,0 +1,14 @@
+/* Section */
+.sectionImage {
+  position: absolute;
+  height: 540px;
+  width: 960px;
+}
+.svgFile {
+  position: absolute;
+  height: 540px;
+  width: 960px;
+  opacity: 0.5;
+}
+
+/*Interactive */
