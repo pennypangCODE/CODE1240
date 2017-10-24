@@ -4,11 +4,6 @@
     duration: 2000,
     origin:'bottom'
   });
-  sr.reveal('.render',{
-    duration: 1000,
-    delay: 1000,
-    origin:'bottom'
-  });
 
 //Inspiration
   sr.reveal('.inspoHead',{
