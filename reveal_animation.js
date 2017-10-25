@@ -171,7 +171,7 @@
   });
   sr.reveal('.sectionDisplay',{
     duration: 1000,
-    delay:2000,
+    delay:1500,
     origin:'bottom',
     distance:'300px',
     viewFactor: 0.7
